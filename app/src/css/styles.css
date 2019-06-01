@@ -1,0 +1,45 @@
+.row{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: azure;
+}
+.rowHeader{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: azure;
+}
+
+.column{
+  display:flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+  border-style: solid; 
+  border-width: 1px;
+  border-color: black;
+  background-color: silver;
+}
+
+.columnHeader{
+  display:flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+  border-style: solid; 
+  border-width: 1px;
+  border-color: black;
+}
+
+.url{
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  width:100%;
+
+}

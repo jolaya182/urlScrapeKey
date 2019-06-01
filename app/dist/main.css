@@ -1,0 +1,1 @@
+.row,.rowHeader{display:flex;flex-direction:row;flex-wrap:wrap;width:100%;background-color:azure}.column{background-color:silver}.column,.columnHeader{display:flex;flex-direction:column;flex-basis:100%;flex:1;overflow:hidden;border:1px solid #000}.url{display:flex;flex-direction:row;flex-wrap:wrap;width:100%}
